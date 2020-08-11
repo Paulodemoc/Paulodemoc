@@ -38,8 +38,6 @@
 
 <img align="left" alt="Paulodemoc's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=paulodemoc&show_icons=true&hide_border=true&theme=tokyonight" />
 
----
-
 <img align="left" alt="Paulodemoc's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodemoc" />
 
 ---
